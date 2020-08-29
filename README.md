@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **josesandino/josesandino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
+
+## Hello! I'm José Sandino, I’m currently learning ReactJS, Stellar and Data Science from Nicaragua.
+
+### Me puedes encontrar
+
+_Personal_
+* :star::blush: En Twitter **[Twitter](https://twitter.com/joansamo01)** :v:
+* :star::blush: Facebook **[Facebook](https://facebook.com/joansamo1)** :v:
+* :star::blush: Mi perfil de Linkedin **[Linkedin](https://www.linkedin.com/in/josesandino/)** :v:
+
