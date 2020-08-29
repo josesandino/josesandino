@@ -1,10 +1,6 @@
-<!--
-**josesandino/josesandino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
 
-## Hello! I'm José Sandino, I’m currently learning ReactJS, Stellar and Data Science from Nicaragua.
+## Hola Mundo! Soy José Sandino, les saludo desde Nicaragua. Actualmente estoy aprendiendo ReactJS, Stellar y Ciencia de Datos. Me gusta aprender sobre tematicas relacionadas con Legaltech,  MedTech y Edtech.
 
 ### Me puedes encontrar
 
