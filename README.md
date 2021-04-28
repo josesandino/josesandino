@@ -1,6 +1,6 @@
 ![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
 
-## Hola Mundo! Soy José Sandino, Wordpress Developer. Interesado en tecnologias que utilizan Ciencia de Datos y Blockchain.
+## Hola Mundo! Soy José Sandino, Wordpress Developer. Interesado en el mundo del emprendimiento y tecnologias que utilizan Ciencia de Datos y Blockchain.
 
 ### Me puedes encontrar
 
