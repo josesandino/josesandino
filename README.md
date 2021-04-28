@@ -1,6 +1,6 @@
 ![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
 
-## Hola Mundo! Soy José Sandino, les saludo desde Nicaragua. Actualmente estoy aprendiendo ReactJS, Stellar y Ciencia de Datos. Me gusta aprender sobre tematicas relacionadas con Legaltech,  MedTech y Edtech.
+## Hola Mundo! Soy José Sandino, Wordpress Developer. Actualmente interesado en tecnologias que se utilizan en Ciencia de Datos y Blockchain.
 
 ### Me puedes encontrar
 
