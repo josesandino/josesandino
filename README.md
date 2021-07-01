@@ -1,7 +1,7 @@
 ![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
 
-## Hola Mundo! Soy José Sandino, Wordpress Developer. Interesado en el mundo del emprendimiento y tecnologias que utilizan Ciencia de Datos y Blockchain.
-
+## Hola Mundo! Soy José Sandino, Wordpress Developer. Interesado en emprendimiento, Ciencia de Datos y Blockchain.
+[![José Sandino's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandino)](https://github.com/josesandino/github-readme-stats)
 ### Me puedes encontrar
 
 _Personal_
@@ -9,6 +9,6 @@ _Personal_
 * :star::blush: Facebook **[Facebook](https://facebook.com/joansamo1)** :v:
 * :star::blush: Mi perfil de Linkedin **[Linkedin](https://www.linkedin.com/in/josesandino/)** :v:
 
-[![José Sandino's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandino)](https://github.com/josesandino/github-readme-stats)
+
 
 
