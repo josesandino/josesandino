@@ -4,7 +4,9 @@
 ## Hola Mundo! Soy José Sandino, Wordpress Developer.
 ## Interesado en: Emprendimiento | Ciencia de Datos
 
-[![José Sandino's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandino&show_icons=true&theme=tokyonight)](https://github.com/josesandino/github-readme-stats)
+[![José Sandino's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandino)](https://github.com/josesandino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesandino&layout=compact)](https://github.com/josesandino/github-readme-stats)
+
 
 ### Me puedes encontrar
 _Personal_ 
