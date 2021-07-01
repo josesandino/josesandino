@@ -9,3 +9,5 @@ _Personal_
 * :star::blush: Facebook **[Facebook](https://facebook.com/joansamo1)** :v:
 * :star::blush: Mi perfil de Linkedin **[Linkedin](https://www.linkedin.com/in/josesandino/)** :v:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesandino)](https://github.com/josesandino/github-readme-stats)
+
