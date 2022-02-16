@@ -1,8 +1,6 @@
 
 ![](https://github.com/josesandino/josesandino/blob/master/webdevelopment.gif)
 
-## Hola Mundo! Soy José Sandino, Web Developer.
-
 [![José Sandino's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesandino)](https://github.com/josesandino/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesandino&layout=compact)](https://github.com/josesandino/github-readme-stats)
